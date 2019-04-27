@@ -13,10 +13,10 @@ This research is about categorizing the twitter media posts of a particular prod
 ##TOOLS USED
 
 1. Tweepy
-2. TextBlob
-3. Pandas
-4. NLTK
-5. WORDCLOUD
+2. Pandas
+3. NLTK
+4. WORDCLOUD
+5. NAIVE BAYES
  
  
 ##INSTALLATIONS
@@ -46,6 +46,7 @@ Our code comprises of steps like data collection, text pre-processing, sentiment
 ##AUTHORS
 
 Nidhi Srinivasa Reddy
+
 Sumanth Tippa
 
 
